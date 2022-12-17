@@ -1,6 +1,5 @@
 logic2
 requests
 time
-tkinter
 colorama 
 ctypes
