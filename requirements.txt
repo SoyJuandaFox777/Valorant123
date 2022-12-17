@@ -2,4 +2,3 @@ logic2
 requests
 time
 colorama 
-ctypes
