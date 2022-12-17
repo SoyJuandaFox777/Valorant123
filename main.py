@@ -1,3 +1,5 @@
+import os
+os.system("pip install -r requirements.txt")
 from requests import session as sesh
 import requests
 from requests.adapters import HTTPAdapter
@@ -10,7 +12,6 @@ from re import compile
 from cryptocode import decrypt
 import ctypes
 from tkinter import filedialog, messagebox
-import os
 import tkinter
 import time
 import random
